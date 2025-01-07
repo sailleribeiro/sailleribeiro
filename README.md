@@ -1,8 +1,6 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sailleribeiro&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=pt-br&hide_border=true&order=1" height="130" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=sailleribeiro&locale=pt-br&mode=daily&theme=aura&hide_border=true&border_radius=5&order=3" height="130" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sailleribeiro&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true&order=2" height="130" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=sailleribeiro&theme=darkhub&column=-1&row=1&margin-w=16&margin-h=16&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sailleribeiro&radius=08&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false" height="460" alt="activity-graph graph"  />
